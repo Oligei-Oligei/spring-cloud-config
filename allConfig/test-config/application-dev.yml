@@ -18,4 +18,4 @@ spring:
   application:
     name: consumer
 my:
-  config: 测试信息
+  config: 测试 actuator 热刷新
