@@ -17,3 +17,5 @@ eureka:
 spring:
   application:
     name: consumer
+my:
+  config: 测试信息
